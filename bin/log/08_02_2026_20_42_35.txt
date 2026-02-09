@@ -1,0 +1,24 @@
+D2Bridge Framework
+by Talis Jonatas Gomes
+https://www.d2bridge.com.br
+
+LOG Started in 08/02/2026 20:42:35
+
+08/02/2026 20:42:55 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:42:56 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:42:57 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:42:57 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:42:57 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:42:57 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:43:10 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:43:10 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:43:10 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:43:13 | Identy = main | Form = FormContato | Component = BtnSalvar | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:43:29 | Identy = main | Form = FormHome | Component = BtnNovo | Event = OnClick | Error = Error creating window device context
+08/02/2026 20:43:37 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Error creating window device context
+08/02/2026 20:43:38 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:43:39 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:43:39 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:43:39 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Cannot focus a disabled or invisible window
+08/02/2026 20:43:51 | Identy = main | Form = FormHome | Component = BtnNovo | Event = OnClick | Error = Error creating window device context
+08/02/2026 20:44:07 | Identy = main | Form = FormContato | Component = BtnAdicionarTelefone | Event = OnClick | Error = Error creating window device context

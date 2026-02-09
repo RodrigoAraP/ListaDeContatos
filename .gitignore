@@ -1,0 +1,60 @@
+# Delphi compiled output
+bin/*.exe
+bin/*.dll
+bin/*.map
+bin/*.drc
+bin/*.rsm
+
+# Delphi intermediate files
+*.dcu
+*.o
+*.obj
+*.res
+*.dres
+*.bpl
+*.bpi
+*.dcp
+*.so
+*.apk
+*.tds
+*.lib
+*.a
+*.log
+
+# Delphi local/user-specific files
+*.local
+*.identcache
+*.projdata
+*.tvsconfig
+*.dsk
+*.stat
+*.cfg
+
+# Delphi history and backup
+__history/
+__recovery/
+*.~*
+
+# RAD Studio
+*.deployproj
+*.groupproj.local
+*.dproj.local
+
+# Win32/Win64 output directories
+Win32/
+Win64/
+
+# Runtime generated files
+bin/log_alteracoes.txt
+bin/log_exclusao.txt
+bin/wwwroot/
+bin/Config.ini
+!bin/Config.ini.example
+
+# MySQL data (if local)
+mysql_data/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
