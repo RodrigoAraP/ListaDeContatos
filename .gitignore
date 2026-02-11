@@ -1,6 +1,4 @@
-# Delphi compiled output
-bin/*.exe
-bin/*.dll
+# Delphi compiled output (manter .exe e .dll para distribuicao)
 bin/*.map
 bin/*.drc
 bin/*.rsm
