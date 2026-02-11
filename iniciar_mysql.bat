@@ -4,11 +4,22 @@ echo   Iniciando MySQL Server...
 echo ==========================================
 echo.
 
+REM Verifica se MySQL ja esta rodando
+tasklist /FI "IMAGENAME eq mysqld.exe" 2>NUL | find /I /N "mysqld.exe">NUL
+if "%ERRORLEVEL%"=="0" (
+    echo [OK] MySQL ja esta rodando na maquina.
+    echo      Nao e necessario iniciar novamente.
+    echo.
+    pause
+    exit /b 0
+)
+
 REM Detecta automaticamente onde o MySQL esta instalado
 set "MYSQL_BIN="
 
 REM Tenta caminhos comuns do MySQL
 for %%P in (
+    "C:\Program Files\MySQL\MySQL Server 9.6\bin\mysqld.exe"
     "C:\Program Files\MySQL\MySQL Server 8.4\bin\mysqld.exe"
     "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqld.exe"
     "C:\Program Files\MySQL\MySQL Server 9.0\bin\mysqld.exe"
