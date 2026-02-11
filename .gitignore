@@ -58,3 +58,6 @@ mysql_data/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Guia de estudo (material pessoal)
+GUIA_ESTUDO.md
